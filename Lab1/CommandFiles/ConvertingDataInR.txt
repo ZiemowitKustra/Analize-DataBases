@@ -1,2 +1,0 @@
-setwd("folderPath_where_file.sav_is")
-write.table( read.spss("fileName.sav"), file="NewFileName.csv", quote = FALSE, sep = ",")
